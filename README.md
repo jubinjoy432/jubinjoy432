@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an MCA student at Rajagiri College of Social Sciences, with a strong interest in technology and web development.<br><br>I have a solid foundation in front-end development using HTML, CSS, and JavaScript, along with hands-on experience in C, C++, Java, Python, PHP, SQL, and Git.<br><br>Previously, I worked as an Associate Analyst (FinOps – Cash Application) at Deloitte USI, where I gained practical exposure to Oracle-based financial systems, data accuracy, and enterprise workflows.<br><br>I’ve completed certifications in Responsive Web Design, Cybersecurity, and Python Programming, and I enjoy learning new technologies and applying them to real-world problem solving.<br><br>💡 Currently focused on improving my full-stack development skills and building meaningful projects.
+I’m an MCA student at Rajagiri College of Social Sciences, with a strong interest in technology and web development.<br><br>I have a solid foundation in front-end development using HTML, CSS, and JavaScript, along with hands-on experience in C, C++, Java, Python, PHP, and SQL.<br><br>Previously, I worked as an Associate Analyst (FinOps – Cash Application) at Deloitte USI, where I gained practical exposure to Oracle-based financial systems, data accuracy, and enterprise workflows.<br><br>I’ve completed certifications in Responsive Web Design, Cybersecurity, and Python Programming, and I enjoy learning new technologies and applying them to real-world problem solving.<br><br>💡 Currently focused on improving my full-stack development skills and building meaningful projects.
 
 
 ## 🌐 Socials:
@@ -12,4 +12,3 @@ I’m an MCA student at Rajagiri College of Social Sciences, with a strong inter
 ![](https://nirzak-streak-stats.vercel.app/?user=jubinjoy432&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jubinjoy432&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
